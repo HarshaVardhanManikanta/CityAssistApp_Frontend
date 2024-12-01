@@ -5,7 +5,7 @@ import Icon from 'react-native-vector-icons/Feather';
 import UpdateModal from "./UpdateModal";
 const Home = ()=>{
     const [complaintList,setComplaintList] = useState([])
-   
+   //Thus is the Home component
     //Update Modal Handling
     //Modal State 
   const [showModal,setShowModal] = useState(false)
